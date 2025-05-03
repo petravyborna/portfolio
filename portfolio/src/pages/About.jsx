@@ -4,7 +4,7 @@ function About() {
   return (
     <div>
       <h1>About Me</h1>
-      <p>Details about yourself go here.</p>
+      <p>This is where the text will be.</p>
     </div>
   );
 }
